@@ -1,0 +1,8 @@
+/* CSS stylesheet for html file */
+
+header img {
+  max-width: 200px;
+  height: auto;
+  margin-bottom: 5px; /* reduced from 20px */
+  padding: 0; /* ensure no extra padding */
+}
